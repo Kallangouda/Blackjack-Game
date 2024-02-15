@@ -14,7 +14,7 @@ In blackjack game, the suits have no meaning.
 ## 1. When the user clicks "Hit" button , a card is drawn
 You can draw as many cards as you want
 
-![image](https://github.com/TheArushiSingh/Web-dev-mini-projects/blob/main/Blackjack%20Game/readme%20images/img1.PNG)
+![image](https://github.com/Kallangouda/Blackjack-Game/blob/master/readme%20images/img1.PNG)
 
 ### 2. You can click on "Stand" when you no longer want to draw cards and then the dealer will draw it's cards
 
