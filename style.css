@@ -11,7 +11,7 @@ body {
   margin: 0 auto;
   text-align: center;
   color: white;
-    width:75%;
+    width:76%;
 
 }
 
@@ -26,16 +26,16 @@ body {
 }
 
 .flex-blackjack-row-2 div {
-  padding: 11px;
+  padding: 10px;
   border: 1px solid black;
 
   flex: 1;
-  height: 351px;
+  height: 350px;
   text-align: center;
 }
 
 .flex-blackjack-row-2 div img {
-  padding: 11px;
+  padding: 10px;
 }
 
 table {
@@ -55,7 +55,7 @@ table td {
 }
 
 .flex-blackjack-row-3 button {
-  padding: 11 px;
+  padding: 10 px;
   margin-bottom: 10px;
 }
 
