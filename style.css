@@ -3,7 +3,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 
-   padding:10px;
+   padding:11px;
 }
 
 
@@ -11,7 +11,7 @@ body {
   margin: 0 auto;
   text-align: center;
   color: white;
-    width:76%;
+    width:75%;
 
 }
 
@@ -19,23 +19,23 @@ body {
 .flex-blackjack-row-2,
 .flex-blackjack-row-3 {
   display: flex;
-  padding: 4px;
+  padding: 5px;
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-evenly;
 }
 
 .flex-blackjack-row-2 div {
-  padding: 10px;
+  padding: 11px;
   border: 1px solid black;
 
   flex: 1;
-  height: 350px;
+  height: 351px;
   text-align: center;
 }
 
 .flex-blackjack-row-2 div img {
-  padding: 10px;
+  padding: 11px;
 }
 
 table {
