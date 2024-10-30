@@ -26,16 +26,16 @@ body {
 }
 
 .flex-blackjack-row-2 div {
-  padding: 11px;
+  padding: 10px;
   border: 1px solid black;
 
   flex: 1;
-  height: 351px;
+  height: 350px;
   text-align: center;
 }
 
 .flex-blackjack-row-2 div img {
-  padding: 11px;
+  padding: 10px;
 }
 
 table {
